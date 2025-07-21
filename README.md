@@ -24,10 +24,6 @@ This repository supports the thesis project focused on extracting species names 
 
 - Mahshid Ahmadi 
 - Msc AI Engineering
-- [ahmadi12@ads.uni-passau.de](mailto:ahmadi12@ads.uni-passau.de)
-- Student ID: 112359 
-- Data Science Chair Universität Passau
+- [Mahshid.a99@gmail.com](mailto:Mahshid.a99@gmail.com)
+- Universität Passau
 
-## Supervisors
-- Prof. Dr. Michael Granitzer 
-- Prof. Dr. Annette Hautli-Janisz
