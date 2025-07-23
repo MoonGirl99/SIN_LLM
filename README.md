@@ -27,7 +27,7 @@ This repository supports the thesis project focused on extracting species names 
 - [Mahshid.a99@gmail.com](mailto:Mahshid.a99@gmail.com)
 - Universität Passau
 
-  ## Two important Sources
-  - LS-LLAMA -> https://github.com/4AI/LS-LLaMA
-  - LLMNER -> https://github.com/plncmm/llmner/tree/main
+## Two important Sources
+- LS-LLAMA -> https://github.com/4AI/LS-LLaMA
+- LLMNER -> https://github.com/plncmm/llmner/tree/main
 
